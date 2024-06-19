@@ -3,7 +3,7 @@ defmodule Scenic.Mixfile do
 
   @app_name :scenic
 
-  @version "0.11.2"
+  @version "0.12.0"
 
   @elixir_version "~> 1.11"
   @github "https://github.com/ScenicFramework/scenic"
